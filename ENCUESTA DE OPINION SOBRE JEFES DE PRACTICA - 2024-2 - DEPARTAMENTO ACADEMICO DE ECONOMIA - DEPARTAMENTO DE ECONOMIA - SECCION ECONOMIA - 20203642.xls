@@ -1,0 +1,388 @@
+
+<!-- inicio cambio para exportar a excel 07-12-2005 ij -->
+
+
+<!-- fin cambio para exportar a excel 07-12-2005 ij -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- inicio cambio para exportar a excel 07-12-2005 ij -->
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+<!-- fin cambio para exportar a excel 07-12-2005 ij -->
+
+<HTML>
+<HEAD>
+
+
+
+
+
+
+
+
+<!-- inicio cambio para exportar a excel 07-12-2005 ij -->
+<!-- <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1"/> -->
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+
+<META NAME="GENERATOR" CONTENT="Oracle JDeveloper">
+<META HTTP-EQUIV="Content-Type"	CONTENT="application/vnd.ms-excel; charset=ISO-8859-1">
+
+<!-- inicio cambio para exportar a excel 07-12-2005 ij -->
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<link rel=File-List href="./general_archivos/filelist.xml">
+<link rel=Edit-Time-Data href="./general_archivos/editdata.mso">
+<link rel=OLE-Object-Data href="./general_archivos/oledata.mso">
+
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor></o:LastAuthor>
+  <o:Created></o:Created>
+  <o:LastSaved></o:LastSaved>
+  <o:Version></o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DownloadComponents/>
+  <o:LocationOfComponents HRef="file:///F:/software/Microsoft/Office%25202000%2520Espanol/cd1/msowc.cab"/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style>
+<!--table
+ {mso-displayed-decimal-separator:"\.";
+ mso-displayed-thousand-separator:"\,";}
+@page
+ {margin:0in 0in 0in 0in;
+ mso-header-margin:0in;
+ mso-footer-margin:0in;}
+tr
+ {mso-height-source:userset;
+  HEIGHT: 25pt;}
+col
+ {mso-width-source:auto;}
+br
+ {mso-data-placement:same-cell;}
+.style0
+ {mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ white-space:nowrap;
+ mso-rotate:0;
+ mso-background-source:auto;
+ mso-pattern:auto;
+ color:windowtext;
+ font-size:10.0pt;
+ font-weight:400;
+ font-style:normal;
+ text-decoration:none;
+ font-family:Arial;
+ mso-generic-font-family:auto;
+ mso-font-charset:0;
+ border:none;
+ mso-protection:locked visible;
+ mso-style-name:Normal;
+ mso-style-id:0;}
+td
+ {mso-style-parent:style0;
+ padding-top:1px;
+ padding-right:1px;
+ padding-left:1px;
+ mso-ignore:padding;
+ color:windowtext;
+ font-size:10.0pt;
+ font-weight:400;
+ font-style:normal;
+ text-decoration:none;
+ font-family:Arial;
+ mso-generic-font-family:auto;
+ mso-font-charset:0;
+ mso-number-format:General;
+ text-align:general;
+ vertical-align:bottom;
+ border:none;
+ mso-background-source:auto;
+ mso-pattern:auto;
+ mso-protection:locked visible;
+ white-space:nowrap;
+ mso-rotate:0;}
+.xl28
+ {mso-style-parent:style0;
+ font-weight:700;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ text-align:left;
+ background:white;
+ mso-pattern:auto none;}
+.xl31
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-weight:700;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ text-align:left;
+ background:white;
+ mso-pattern:auto none;
+ white-space:normal;}
+.xl34
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ text-align:left;
+ border-top:none;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:.5pt solid silver;
+ background:white;
+ mso-pattern:auto none;
+ white-space:normal;}
+.xl36
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:"\@";
+ text-align:center;
+ border-top:none;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:none;
+ background:white;
+ mso-pattern:auto none;
+ white-space:normal;}
+.xl37
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:0;
+ text-align:right;
+ border-top:none;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:none;
+ background:white;
+ mso-pattern:auto none;
+ white-space:normal;}
+.xl38
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:Fixed;
+ text-align:left;
+ border-top:none;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:none;
+ background:white;
+ mso-pattern:auto none;
+ white-space:normal;}
+.xl39
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:Percent;
+ text-align:right;
+ border-top:none;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:none;
+ background:white;
+ mso-pattern:auto none;
+ white-space:normal;}
+.xl47
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-weight:700;
+ font-family:Helvetica, sans-serif;
+ mso-font-charset:0;
+ text-align:center;
+ border-top:.5pt solid silver;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:.5pt solid silver;
+ white-space:normal;}
+.xl48
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-weight:700;
+ font-family:Arial, sans-serif;
+ mso-font-charset:0;
+ text-align:left;
+ border-top:.5pt solid silver;
+ border-right:none;
+ border-bottom:.5pt solid silver;
+ border-left:.5pt solid silver;
+ white-space:normal;}
+.xl51
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-weight:700;
+ font-family:Arial, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:Fixed;
+ text-align:left;
+ border-top:.5pt solid silver;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:.5pt solid silver;
+ white-space:normal;}
+.xl52
+ {mso-style-parent:style0;
+ font-size:8.0pt;
+ font-weight:700;
+ font-family:Arial, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:Fixed;
+ text-align:center;
+ border-top:.5pt solid silver;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:.5pt solid silver;
+ white-space:normal;}
+.xl53
+ {mso-style-parent:style0; 
+ font-size:7.0pt;
+ font-weight:700;
+ font-family:Arial, sans-serif;
+ mso-font-charset:0;
+ mso-number-format:Fixed;
+ text-align:left;
+ border-top:.5pt solid silver;
+ border-right:.5pt solid silver;
+ border-bottom:.5pt solid silver;
+ border-left:.5pt solid silver;
+ white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Reporte Consolidado de Comentarios</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>270</x:DefaultRowHeight>
+     <x:DefaultColWidth>10</x:DefaultColWidth>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>9150</x:WindowHeight>
+  <x:WindowWidth>15360</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>1365</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<!-- fin cambio para exportar a excel 07-12-2005 ij -->
+
+<!--link rel ="stylesheet" type="text/css" href="../../lib/jsp/pucp.css"-->
+<script language="JavaScript1.2" src="jsp/eswvicom.js"> </script>
+</HEAD> 
+
+<body>
+
+<!-- al atributo name le asigno el valor del parámetro Ruta -->
+<form action="/pucp/estadist/eswvicom" name="documento" method="post">      
+
+<br>   
+
+	<table x:str border="1">
+  	<tr>
+		<td class=xl51></td>
+    	<td class=xl51>Encuesta de opinión sobre docentes por docente o curso - Reporte consolidado de respuestas escritas</td>
+  	</tr>
+	</table>
+	<table x:str border="1" width="100%" >
+	  <tr>
+	    <td class=x151></td>
+	    <td class=x151></td>
+	    <td class=x151></td>
+	    <td class=x151></td>
+	  </tr>
+	 
+	  <tr>
+	    <td class=xl51>Encuesta:</td>
+	    <td class=xl51>ENCUESTA DE OPINION SOBRE JEFES DE PRACTICA</td>
+	  </tr> 
+	 
+	  <tr>
+	    <td class=xl51>Ciclo:</td>
+	    <td class=xl51>2024-2</td>
+	  </tr> 
+	
+	  <tr>
+	    <td class=xl51>Departamento:</td>
+	    <td class=xl51>DEPARTAMENTO ACADEMICO DE ECONOMIA</td>
+	  </tr>
+	  <tr>
+	    <td class=xl51>Sección:</td>
+	    <td class=xl51>DEPARTAMENTO DE ECONOMIA - SECCION ECONOMIA</td>
+	  </tr>
+	  <tr>
+	    <td class=xl51>Docente:</td>
+	    <td class=xl51>20203642 - MORAN TORRES, ALVARO MAURICIO</td>
+	  </tr>
+	  <tr>
+	    <td class=xl51>Categoría - Dedicación:</td>
+	    <td class=xl51>INS-TPA</td>
+	  </tr>
+	
+	  <tr>
+	    <td class=x151></td>
+	    <td class=x151></td>
+	    <td class=x151></td>
+	    <td class=x151></td>
+	  </tr>
+	</table>
+
+	<table border="0" width="100%">
+	  <tr> 
+	  	<tr>
+		    <td class=x151></td>
+		    <td class=x151></td>
+		    <td class=x151></td>
+		    <td class=x151></td>
+	    </tr>
+	    <td class=xl51>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red"><ul><li>Los alumnos no brindaron ningún comentario.</ul></font> 
+	    </td>
+	   </tr>
+	</table> 
+	
+</form>
+</body>
+</html>
