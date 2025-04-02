@@ -1,0 +1,62 @@
+
+{
+	"commands" : "",
+	"description" : "Generated when this file was opened on 2025/01/30 11:44:43.",
+	"label" : "auto base",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\curso\\documents\\prediccióm\\materialeviews-20250130t132112z-001\\materialeviews\\ejemplo1.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "U",
+				"_last_update" : [ 738166.8270833333, "01/12/2022 19:51" ],
+				"_name" : "Untitled",
+				"_obj_count" : 6,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "integer",
+						"_name" : "@DATE",
+						"_obs_max" : 200,
+						"_obs_min" : 1,
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "FIN1",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "FIN2",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "HMAX",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "Y",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 200
+			}
+		]
+	}
+}

@@ -1,0 +1,157 @@
+
+{
+	"commands" : [ "close Y" ],
+	"description" : "Generated based on timer.",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\curso\\documents\\prediccióm\\materialeviews-20250130t132112z-001\\materialeviews\\ejemplo1.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "U",
+				"_last_update" : [ 739280.4897685185, "01/30/2025 11:45" ],
+				"_name" : "Untitled",
+				"_obj_count" : 25,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "integer",
+						"_name" : "@DATE",
+						"_obs_max" : 200,
+						"_obs_min" : 1,
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "EC1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EC2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EC3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EC4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EC5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EC6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EQ",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "FIN1",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "FIN2",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "GYC1A",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "GYC1B",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "GYC2A",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "GYC2B",
+						"_type" : "GROUP"
+					},
+					
+					{
+						"_name" : "GYC_",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "HMAX",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TABLA",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "Y",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YC1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YC2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YC3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YC4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YC5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YC6",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 200
+			}
+		]
+	}
+}
